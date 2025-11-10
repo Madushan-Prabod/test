@@ -1,4 +1,4 @@
-{{--master blade--}}
+
 <!DOCTYPE html>
 <html lang="en">
 
